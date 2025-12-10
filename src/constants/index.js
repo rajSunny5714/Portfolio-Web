@@ -13,7 +13,7 @@ Deep interest in SOC operations, IAM, SIEM, vulnerability analysis, and using au
 Driven to grow, solve real-world security and engineering challenges, and contribute meaningfully to innovative, future-ready projects.`
 export const EXPERIENCES = [
   {
-    year: "2025 June - Present",
+    year: "2025 June - Present (Noida, Uttar pradesh)",
     role: "Software Developer Trainee",
     company: "TATA CONSULTANCY SERVICES (TCS)",
     description: `Gained hands-on experience and contributed to full-stack development using Java, Spring Boot, REST APIs,
@@ -26,7 +26,7 @@ export const EXPERIENCES = [
     technologies: [],
   },
   {
-    year: "2025 Jan - 2025 May",
+    year: "2025 Jan - 2025 May (Chennai, Tamilnadu)",
     role: "Graduate Trainee",
     company: "TATA CONSULTANCY SERVICES (TCS)",
     description: `Gained hands-on experience with diverse technologies and contributed to real-time enterprise applications. Adept at
@@ -93,7 +93,6 @@ export const PROJECTS = [
 ];
 
 export const CONTACT = {
-  address: "Muzaffarpur, Bihar, India 842002 ",
-  phoneNo: "+91 990-554-3185 ",
-  email: "mrsj5714@gmail.com",
+  phoneNo: "Contact: +91 990-554-3185 ",
+  email: "Mail: mrsj5714@gmail.com",
 };
