@@ -7,6 +7,7 @@ import Experience from './components/Experience';
 import Education from './components/Education';
 import Projects from './components/Projects';
 import Contact from './components/Contact';
+import CoursesAndCertifications from './components/CoursesAndCertifications';
 
 const App = () => {
   return (
