@@ -13,26 +13,12 @@ Deep interest in SOC operations, IAM, SIEM, vulnerability analysis, and using au
 Driven to grow, solve real-world security and engineering challenges, and contribute meaningfully to innovative, future-ready projects.`
 export const EXPERIENCES = [
   {
-    year: "2025 June - Present (Noida, Uttar pradesh)",
-    role: "Software Developer Trainee",
-    company: "TATA CONSULTANCY SERVICES (TCS)",
-    description: `Gained hands-on experience and contributed to full-stack development using Java, Spring Boot, REST APIs,
-                  React.js, JDBC, and SQL. Participated in all SDLC phases, including requirement analysis, design, development,
-                  testing, deployment, and maintenance. Developed and maintained backend services with clean architecture and opti
-                  mized APIs. Implemented database operations using JDBC and SQL for efficient data handling. Supported frontend
-                  development by building responsive UI components in React.js. Utilized Docker for containerized environments and
-                  Git for version control. Collaborated in an Agile/Scrum environment through sprint planning, daily stand-ups,
-                  and code reviews`,
-    technologies: [],
-  },
-  {
-    year: "2025 Jan - 2025 May (Chennai, Tamilnadu)",
+    year: "2025 Jan - Present (Chennai, Tamilnadu -- Noida, Uttar Pradesh)",
     role: "Graduate Trainee",
     company: "TATA CONSULTANCY SERVICES (TCS)",
-    description: `Gained hands-on experience with diverse technologies and contributed to real-time enterprise applications. Adept at
-                  backend development using Spring Boot, REST APIs, and related frameworks. Proficient in frontend technologies
-                  like React.js, HTML5, CSS, and Bootstrap. Worked with Java, Python, and SQL for backend logic and database
-                  management. Experienced with JMeter, JUnit, Selenium, and Git for testing and version control`,
+    description: `I have started my career at TCS as a Graduate Trainee in the Ignite program.
+    As part of the TCS Ignite Program, I am undergoing intensive training designed to build strong foundations in IT, software development, and professional skills, while also gaining hands-on experience through real-world projects. This experience is helping me bridge the gap between academic learning and industry application, preparing me to contribute effectively to innovative solutions at TCS. Contributed to enterprise-level full-stack applications using Java, Spring Boot, REST APIs, React.js, JDBC,
+    and SQL. Participated in all phases of the Software Development Life Cycle (SDLC) including requirement analysis, design,development, testing, deployment, and maintenance. Designed and maintained backend services following clean architecture principles and optimized RESTful APIs. Implemented efficient database operations using JDBC and SQL to ensure data integrity and performance. Developed responsive and reusable UI components using React.js, HTML5, CSS, and Bootstrap. Utilized Docker for containerized application environments and Git for version control. Performed functional and performance testing using JUnit, Selenium, and JMeter. Collaborated in an Agile/Scrum environment through sprint planning, daily stand-ups, and code reviews. Relocated internally from Chennai to Noida based on project and organizational requirements.`,
     technologies: [],
   }
 ];
@@ -96,3 +82,4 @@ export const CONTACT = {
   phoneNo: "Contact: +91 990-554-3185 ",
   email: "Mail: mrsj5714@gmail.com",
 };
+
