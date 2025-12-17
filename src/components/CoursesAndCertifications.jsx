@@ -10,8 +10,13 @@ const fadeUp = {
 const CoursesAndCertifications = () => {
   const items = [
      {
+      title: "Software Engineer",
+      issuer: "HackerRank",
+      year: "2025",
+    },
+     {
       title: "ISC2 Certified Information Systems Security Professional (CISSP)",
-      issuer: "Linkedin",
+      issuer: "Linkedin Learning",
       year: "2025",
     },
     {
@@ -31,7 +36,7 @@ const CoursesAndCertifications = () => {
     },
     {
       title: "Java 8+ and Syntax",
-      issuer: "Linkedin",
+      issuer: "Linkedin Learning",
       year: "2025",
     },
     {
@@ -41,12 +46,12 @@ const CoursesAndCertifications = () => {
     },
     {
       title: "GIT (Version Control System)",
-      issuer: "Linkedin",
+      issuer: "Linkedin Learning",
       year: "2025",
     },
     {
       title: "Generative AI",
-      issuer: "Linkedin",
+      issuer: "Linkedin Learning",
       year: "2025",
     },
   ];
@@ -84,5 +89,6 @@ const CoursesAndCertifications = () => {
     </div>
   );
 };
+
 
 export default CoursesAndCertifications;
