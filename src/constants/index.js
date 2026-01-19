@@ -3,7 +3,7 @@ import project2 from "../assets/projects/edusity.png";
 import project3 from "../assets/projects/budgetify.png";
 import project4 from "../assets/projects/playstream.png";
 
-export const HERO_CONTENT = `Trainee @TCS | Java Developer | Aspiring Cybersecurity Analyst (IAM Learner) | Skilled in Java, Spring Boot, RestFul APIs, SQL | React.js, CSS | Solved 200+ LeetCode DSA and 150+ Coding ninja DSA and 400+ DSA MCQ Problems | GoLang Beginner`
+export const HERO_CONTENT = `Proficient FullStack Java Developer | Aspiring Cybersecurity Analyst (IAM Learner) | Skilled in Java, Spring Boot, RestFul APIs, SQL | React.js, CSS | Solved 200+ LeetCode DSA Problems | Exploring AI/ML & GoLang`
 
 export const ABOUT_TEXT = `Aspiring Cybersecurity Analyst & Java Developer, actively preparing for a career at the intersection of cybersecurity and backend engineering. Currently gaining hands-on experience in IAM, OAuth, SAML 2.0, while strengthening strong development skills in Java, Spring Boot, REST APIs, SQL, JDBC, and Microservices architecture.
 Skilled in building secure and scalable backend systems, with additional experience in React.js for frontend development. Experienced with JMeter, Selenium, and JUnit for testing, automation, and performance optimization. Knowledgeable in DBMS, Git/GitHub, Agile methodologies, AWS, and Docker containerization.
@@ -83,6 +83,7 @@ export const CONTACT = {
   phoneNo: "Contact: +91 990-554-3185 ",
   email: "Mail: mrsj5714@gmail.com",
 };
+
 
 
 
