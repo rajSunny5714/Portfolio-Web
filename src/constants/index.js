@@ -5,15 +5,16 @@ import project4 from "../assets/projects/playstream.png";
 
 export const HERO_CONTENT = `Trainee @TCS | Java Developer | Aspiring Cybersecurity Analyst (IAM Learner) | Skilled in Java, Spring Boot, RestFul APIs, SQL | React.js, CSS | Solved 200+ LeetCode DSA and 150+ Coding ninja DSA and 400+ DSA MCQ Problems | GoLang Beginner`
 
-export const ABOUT_TEXT = `Aspiring Cybersecurity Analyst & Java Developer, actively preparing for a career at the intersection of cybersecurity and backend engineering. Currently gaining hands-on experience in IAM & SIEM, while strengthening strong development skills in Java, Spring Boot, REST APIs, SQL, JDBC, and Microservices architecture.
+export const ABOUT_TEXT = `Aspiring Cybersecurity Analyst & Java Developer, actively preparing for a career at the intersection of cybersecurity and backend engineering. Currently gaining hands-on experience in IAM, OAuth, SAML 2.0, while strengthening strong development skills in Java, Spring Boot, REST APIs, SQL, JDBC, and Microservices architecture.
 Skilled in building secure and scalable backend systems, with additional experience in React.js for frontend development. Experienced with JMeter, Selenium, and JUnit for testing, automation, and performance optimization. Knowledgeable in DBMS, Git/GitHub, Agile methodologies, AWS, and Docker containerization.
 Pursuing MCA from IIIT Ranchi, in collaboration with IIT Patna, with expected completion in 2027, further strengthening my academic foundation in advanced computer science, cybersecurity, and system design.
 A dedicated learner consistently improving Data Structures & Algorithms, along with key CS fundamentals like Operating Systems, Networking, and Software Design. Passionate about building secure applications, understanding cyber threats, and learning modern defensive tools and techniques.
 Deep interest in SOC operations, IAM, SIEM, vulnerability analysis, and using automation and AI to improve system security. Enthusiastic about emerging technologies such as Generative AI, Agentic AI, and their impact on cybersecurity and software engineering.
 Driven to grow, solve real-world security and engineering challenges, and contribute meaningfully to innovative, future-ready projects.`
+
 export const EXPERIENCES = [
   {
-    year: "2025 Jan - Present (Chennai, Tamilnadu -- Noida, Uttar Pradesh)",
+    year: "2025 Jan - Present (Chennai, TN -- Noida, UP)",
     role: "Graduate Trainee",
     company: "TATA CONSULTANCY SERVICES (TCS)",
     description: `I have started my career at TCS as a Graduate Trainee in the Ignite program.
@@ -26,9 +27,9 @@ export const EXPERIENCES = [
 export const EDUCATIONS = [
   { year: "2025 - 2027",
     degree: "MCA",
-    institute: "Indian Institute of Information and Technology (IIT Patna)",
+    institute: "Indian Institute of Information and Technology (Programme conducted in collaboration with IIT Patna)",
     description: `Throughout my academic journey, I acquire skills and knowledge in system programming languages, OOPs concepts and related areas, as highlighted in my relevant coursework.`,
-    relevantCoursework: ["System Programming", "CyberSecurity(IAM & SIEM)", "RDBMS", "Mathematics"],
+    relevantCoursework: ["System Programming", "CyberSecurity(IAM)", "RDBMS", "Mathematics"],
   },
   {
     year: "2021 - 2024",
@@ -82,6 +83,7 @@ export const CONTACT = {
   phoneNo: "Contact: +91 990-554-3185 ",
   email: "Mail: mrsj5714@gmail.com",
 };
+
 
 
 
