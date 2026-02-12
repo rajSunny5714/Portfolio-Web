@@ -11,7 +11,7 @@ const Navbar = () => {
     </div>
     <div className="mt-4 flex flex-wrap items-center justify-center gap-4 text-2xl lg:mt-0">
         <a
-          href="https://www.linkedin.com/in/sunny-raj-299401273/"
+          href="https://www.linkedin.com/in/sunny-raj-jha-299401273/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn Profile"
@@ -27,7 +27,7 @@ const Navbar = () => {
           <FaGithub />
         </a>
         <a
-          href="https://x.com/mrsj5714?t=fcoj05QXlApJ-CBljwgGhw&s=08"
+          href="https://x.com/sunnyraj_21"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Twitter Profile"
@@ -35,7 +35,7 @@ const Navbar = () => {
           <FaSquareXTwitter />
         </a>
         <a
-          href="https://www.instagram.com/mr.sr_sunny/"
+          href="https://www.instagram.com/mr.rj_sunny/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="Instagram Profile"
@@ -47,3 +47,4 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
