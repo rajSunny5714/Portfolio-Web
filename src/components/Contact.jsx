@@ -21,7 +21,7 @@ const Contact = () => {
         initial={{ opacity: 0, x: 100 }}
         transition={{ duration: 1 }} 
         className='my-4'>{CONTACT.phoneNo}</motion.p> 
-        <p className='my-4'> <a href={mycv} className='border-b' download="My-CV.pdf"> <button>Download CV</button> </a></p>
+        <p className='my-4'> <a href="https://drive.google.com/file/d/1xZ2mJlFalqefaznk5-cmEloqKJEINWXz/view" className='border-b' download=""> <button>Take a Look on CV</button> </a></p>
         <a href={`mailto:${CONTACT.email}`} className='my-4 border-b'>{CONTACT.email}</a>
       </div>
     </div>
@@ -29,3 +29,4 @@ const Contact = () => {
 }
 
 export default Contact
+
