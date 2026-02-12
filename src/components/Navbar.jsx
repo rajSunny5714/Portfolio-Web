@@ -11,7 +11,7 @@ const Navbar = () => {
     </div>
     <div className="mt-4 flex flex-wrap items-center justify-center gap-4 text-2xl lg:mt-0">
         <a
-          href="https://www.linkedin.com/in/sunny-raj-jha-299401273/"
+          href="https://www.linkedin.com/in/sunny-raj-299401273/"
           target="_blank"
           rel="noopener noreferrer"
           aria-label="LinkedIn Profile"
@@ -47,4 +47,5 @@ const Navbar = () => {
 };
 
 export default Navbar;
+
 
